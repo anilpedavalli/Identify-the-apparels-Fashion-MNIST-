@@ -21,4 +21,3 @@ Label	Description
 https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-apparels/#ProblemStatement
 1. Train link has "train.csv" and apparel images for train
 2. Test link has "test.csv" having images name, need to predict the image label
-
